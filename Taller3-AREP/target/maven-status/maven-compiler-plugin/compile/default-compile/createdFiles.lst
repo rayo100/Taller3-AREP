@@ -1,0 +1,8 @@
+edu\escuelaing\app\taller3\arep\HttpServer.class
+edu\escuelaing\app\taller3\arep\HttpConnection.class
+edu\escuelaing\app\taller3\arep\spark\HttpResponse.class
+edu\escuelaing\app\taller3\arep\spark\Response.class
+edu\escuelaing\app\taller3\arep\Seeker.class
+edu\escuelaing\app\taller3\arep\spark\StaticFiles.class
+edu\escuelaing\app\taller3\arep\webapps\App.class
+edu\escuelaing\app\taller3\arep\spark\ServiceTwoParam.class
